@@ -48,8 +48,8 @@
 <br>
 
 ## 👥 Authors
-|강혜린|문해빈 (HaeBeen Mun)|박준혁 (JunHyuk Park)|양종인 (jongIn Yang)|
+|강혜린 (HyeRin Kang)|문해빈 (HaeBeen Mun)|박준혁 (JunHyuk Park)|양종인 (jongIn Yang)|
 |:---:|:---:|:---:|:---:|
 |사진|사진|<img src="https://user-images.githubusercontent.com/45564605/235332911-4b064fac-7caf-4835-b21c-4d11e94b90db.png" width="170" height="170"/>|사진|
-|빈칸|[@happppi](https://github.com/hhbb0081)|[@Genesis2010](https://github.com/Genesis2010)|[@yangjongin](https://github.com/yangjongin)|
+|[@hxxlxn-Kxxx](https://github.com/hxxlxn-Kxxx)|[@happppi](https://github.com/hhbb0081)|[@Genesis2010](https://github.com/Genesis2010)|[@yangjongin](https://github.com/yangjongin)|
 |빈칸|빈칸|iOS Developer|빈칸|
