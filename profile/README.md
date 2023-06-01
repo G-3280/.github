@@ -1,4 +1,4 @@
-# G-3280 - 가톨릭대학교 종합설계 프로젝트
+# Eco Guardians ( Team G-3280 )
 
 ## 🎯 Project Goal
 #### 체험을 통해 미취학 아동들이 환경보호에 관심을 가질 수 있도록 도와주자!
@@ -29,15 +29,19 @@
 ## ✨ Skills & Tech Stack
 
 ### Android
-- JavaScript
-- React Native
+- React (17.0.2)
+- React Native (0.68.2)
+- Android Studio (2022.2.1.19)
 
 ### iOS 
-- Swift
+- Swift (5.7)
 - SwiftUI
+- Xcode (14.3)
 
 ### Server
-- Firebase
+- Firebase Authentication
+- Firstore Database
+- Firebase Storage
 
 ### Tools
 - GitHub
